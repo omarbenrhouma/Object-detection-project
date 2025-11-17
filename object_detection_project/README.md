@@ -194,9 +194,9 @@ This project uses the Hard Hat Workers dataset from Roboflow:
 This project is for educational purposes.
 
 ## Authors
-
-- Omar Ben Rhouma
 - Omar Mejri
+- Omar Ben Rhouma
+
 
 ## Acknowledgments
 
